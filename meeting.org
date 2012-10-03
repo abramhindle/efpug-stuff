@@ -1,0 +1,34 @@
+** EFPUG
+   - hard to get on mailinglist
+   - website is an issue
+     - blogspot/blogger?
+     - organization
+     - central thing
+     - reduces ownership
+   - people
+     - uacs - cs - abram
+     - NAIT - email someone there
+     - grad students - abram
+     - computer engineering club
+     - email targetted groups
+   - organization
+     - publicity chair
+   - what are we going to do
+     - lectures
+       - xmonad - justin
+       - state monad - abram
+       - sdl - abram
+       - cairo - abram
+       - CPS - abram
+       - parsing stuff
+         - parsec
+         - parse-a-tron
+       - languages
+         - OCaml
+         - haskell
+         - common lisp
+         - scheme
+     - interactive stuff
+       - code jam/comp IFCP
+       - golfing / euler stuff / fp conversion
+       
